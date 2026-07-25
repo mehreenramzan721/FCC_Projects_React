@@ -1,7 +1,13 @@
+.star-rating {
+    display: flex;
+    gap: 4px;
+    cursor: pointer;
+}
+
 .active {
     color: #fff700;
-  }
-  
-  .inactive {
+}
+
+.inactive {
     color: #000000;
-  }
+}
