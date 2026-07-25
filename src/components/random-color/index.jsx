@@ -58,8 +58,8 @@ export default function RandomColor() {
           color: "#fff",
           fontSize: "60px",
           marginTop: "50px",
-          flexDirection  :'column',
-          gap :'20px'
+          flexDirection: 'column',
+          gap: '20px'
         }}
       >
         <h3>{typeOfColor === "rgb" ? "RGB Color" : "HEX Color"}</h3>
