@@ -29,7 +29,7 @@ function App() {
 
       {/* <TreeView menus={menus} /> */}
       {/* <QRCodeGenerator /> */}
-      <ThemeChanger/>
+      {/* <ThemeChanger /> */}
 
     </>
   )
